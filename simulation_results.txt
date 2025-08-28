@@ -1,0 +1,23 @@
+Simulacao G/G/1/5:
+
+Tempo total de simulacao: 186855.4943
+Clientes perdidos: 6583
+Estado	Tempo acumulado	Probabilidade
+0	2.0000	0.000011
+1	35.9628	0.000192
+2	277.7360	0.001486
+3	8196.9190	0.043868
+4	98569.4874	0.527517
+5	79773.3890	0.426926
+
+Simulacao G/G/2/5:
+
+Tempo total de simulacao: 175032.6715
+Clientes perdidos: 0
+Estado	Tempo acumulado	Probabilidade
+0	11042.2311	0.063087
+1	127759.3806	0.729917
+2	36114.1493	0.206328
+3	116.9105	0.000668
+4	0.0000	0.000000
+5	0.0000	0.000000
